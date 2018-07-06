@@ -7,7 +7,7 @@
 * pkg install bash
 * pkg install git
 * git clone https://github.com/amingodlike/toolsig
-* cd toolscoccot
+* cd toolsig
 * unzip node_modules.zip
 
 # How to Run on Termux
@@ -28,7 +28,3 @@ And select number 7
 # Thank's To:
 
 Ccocot & NaonlahNet & Bc0de.net & Wingkocoli & Dandy & Jrxuii & Auliaahmad16 & Huttarichard
-
-# Follow 
-
-* Facebook  = https://www.facebook.com/muhamad.a.farizi.1
