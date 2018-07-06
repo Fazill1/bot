@@ -6,8 +6,8 @@
 * pkg install php
 * pkg install bash
 * pkg install git
-* git clone https://github.com/amingodlike/toolsig
-* cd toolsig
+* git clone https://github.com/amingodlike/bot
+* cd bot
 * unzip node_modules.zip
 
 # How to Run on Termux
