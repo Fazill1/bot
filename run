@@ -8,7 +8,7 @@ echo ""
 figlet "INSTAGRAM TOOLS" | lolcat
 echo -e $kiddes "#####################"
 echo "  # Code By CCOCOT			 # " | lolcat
-echo "  # Fix By Farizi			     # " | lolcat
+echo "  #              		     # " | lolcat
 echo -e $kiddes "#####################"
 echo -e $kiddies"=================================================" 
 echo " [1] FFT AUTO"  | lolcat
